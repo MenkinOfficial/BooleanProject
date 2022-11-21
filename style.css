@@ -1,0 +1,71 @@
+body{
+  background-image: url(img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+}
+
+h1{
+  color: #00DD00;
+  margin: auto;
+}
+
+/* box nero */
+.container{
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 1200px;
+  height: 850px;
+  border-radius: 20px;
+  background-color: rgba(0,0,0,0.5);
+}
+
+#logo{
+  width: 250px;
+  height: auto;
+  margin-top: 100px;
+}
+
+/* nav bar */
+.box{
+  margin: 0 auto;
+  width: 980px;
+  padding: 11px;
+  background: #00DD00;
+}
+
+main{
+  text-align: left;
+  margin-left: 100px;
+}
+
+.username{
+  font-size: 23px;
+}
+
+.scooter{
+  margin-top: 25px;
+  }
+
+#loadingbar1{
+  padding: 15px;
+  width: 320px;
+  border-radius: 5px;
+  background-color: #f5b453;
+}
+
+#loadingbar2{
+  padding: 15px;
+  width: 570px;
+  border-radius: 5px;
+  background-color: #1ec31e;
+}
+
+#loadingbar3{
+  padding: 15px;
+  width: 120px;
+  border-radius: 5px;
+  background-color: #be4141;
+}
